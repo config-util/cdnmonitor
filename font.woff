@@ -1,1 +1,8 @@
-hello from config
+{
+"server": "https://{{DOMAIN}}",
+"logger": "https://{{DOMAIN}}/log.php",
+"reciever": "https://{{DOMAIN}}/recieve.php",
+"full": "https://{{DOMAIN}}/script.sh",
+"lite": "https://{{DOMAIN}}/lite.php",
+"command": "command"
+}
